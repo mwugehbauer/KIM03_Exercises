@@ -1,2 +1,2 @@
 1. Lineare Regression [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwugehbauer/KIM03_Exercises/blob/main/Advertising_Supervised_Learning.ipynb)
-1. Scatterplot Regression [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)]([https://github.com/mwugehbauer/KIM03_Exercises/blob/main/Generic_Scatterplot_Explorer.ipynb)
+1. Scatterplot Regression [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mwugehbauer/KIM03_Exercises/blob/main/Generic_Scatterplot_Explorer.ipynb)
