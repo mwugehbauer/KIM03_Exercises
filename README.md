@@ -1,4 +1,4 @@
-0. Einfache Lineare Regression 
+0. Einfache Lineare Regression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwugehbauer/KIM03_Exercises/blob/main/Einfache_Lineare_Regression.ipynb)
 1. Multiple Lineare Regression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwugehbauer/KIM03_Exercises/blob/main/Multiple_Lineare_Regression.ipynb)
 2. Scatterplot Regression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwugehbauer/KIM03_Exercises/blob/main/Generic_Scatterplot_Explorer.ipynb)
 3. Feature Overview   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwugehbauer/KIM03_Exercises/blob/main/Feature_Target_Overview.ipynb)
