@@ -4,3 +4,4 @@
 4. RSME Vergleich     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwugehbauer/KIM03_Exercises/blob/main/Polynomial_Regression_RMSE_Exercise.ipynb)
 5. Stufenweise Funktion [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwugehbauer/KIM03_Exercises/blob/main/Stufenfunktion_Regression_Colab.ipynb)
 6. Regression Spline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwugehbauer/KIM03_Exercises/blob/main/Regression_Splines_Colab.ipynb)
+7. Multiple Polynomiale Regression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwugehbauer/KIM03_Exercises/blob/main/Polynomial_Regression_Multiple_Features_Colab.ipynb)
