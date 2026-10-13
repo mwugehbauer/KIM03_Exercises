@@ -7,3 +7,4 @@
 6. Regression Spline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwugehbauer/KIM03_Exercises/blob/main/Regression_Splines_Colab.ipynb)
 7. Multiple Polynomiale Regression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwugehbauer/KIM03_Exercises/blob/main/Polynomial_Regression_Multiple_Features_Colab.ipynb)
 8. Stepwise Function [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwugehbauer/KIM03_Exercises/blob/main/TV_Advertising_Step_Function_Regression.ipynb)
+9. Multiple Polynomiale Individual Regression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwugehbauer/KIM03_Exercises/blob/main/Polynomial_Regression_Individual_Feature_Degrees_Colab.ipynb)
